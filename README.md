@@ -126,7 +126,8 @@
 ### ⚙️ System Architecture
 
 <div align="center">
-<img src="https://github.com/MAZU-dev/mazu-ku-hackaton-readme/assets/85959639/70f33da9-14ce-45fd-85f0-ba4d4894ef35" alt="아키텍처" />
+  
+![KakaoTalk_Photo_2023-08-17-07-34-27](https://github.com/MAZU-dev/mazu-ku-hackaton-readme/assets/59868624/e1034c48-4688-4a90-aae6-7971bd9c255c)
 </div>
 
 ### ⚙️ Front-end
@@ -202,8 +203,8 @@
   - 알림 푸시 : FCM 토큰을 이용하여 사용자에게 알림을 푸시하는 기능을 구현.
 - 위치 기능 ( WebSocket STOMP , RabbitMQ )
   - 자신의 소나와 맺어있는 소나 보여주기 : Websocket 기반 STOMP 사용. STOMP(Simple Text Oriented Messaging Protocol)은 메세징 전송을 효율적을 하기 위해 탄생한 프로토콜. 기본적으로 pub/sub 구조로 되어있어 메세지를 전송하고 메세지를 받아 처리하는 부분이 확실히 정해져 있기 때문에 개발자 입장에서 명확하게 인지하고 개발 가능.
-  - 로드 밸런싱 환경 지원 : Spring Stomp 를 사용하는데 내장되어있는 SimpleBroker 를 사용한다. 로드 밸런싱이 적용되어 있는 경우, 위치 기능은 스프링 프로젝트에 종속적이기 때문에 가까운 위치에 있더라도 기능이 정상적으로 작동하지 않는다. → 외부 브로커인 RabbitMQ 를 사용하여, 기존 STOMP 의 pub/sub 구조를 사용하면서, 로드 밸런싱 환경에서도 안정적으로 동작하도록 구성하였다.
-  - 온라인 소나 관리 : Redis 사용하여,
+  - 로드 밸런싱 환경 지원 : Spring Stomp 를 사용하는데 내장되어있는 SimpleBroker 를 사용한다. 로드 밸런싱이 적용되어 있는 경우, 위치 기능은 스프링 프로젝트에 종속적이기 때문에 가까운 위치에 있더라도 기능이 정상적으로 작동하지 않는다. → 외부 브로커인 RabbitMQ 를 사용하여, 기존 STOMP 의 pub/sub 구조를 사용하면서, 로드 밸런싱 환경에서도 안정적으로 동작하도록 구성.
+  - 온라인 소나 관리 : Redis 사용하여, 온라인인 소나만 상태 관리.
 
 3. Frontend ( Flutter Framework )
 
