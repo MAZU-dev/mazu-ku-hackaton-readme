@@ -163,7 +163,7 @@ MZ를 위한 간편하고 빠른 인맥 관리 서비스, 엠덱스
 | --- | --- | --- | --- |
 | Park Jeonghwan | Ha Jinwoo | Chnag Dongsoo | Koo Gabin |
 | PM / 프론트엔드 | 프론트엔드 개발 | 백엔드 개발 | 기획 / 디자인 |
-|  |  |  |  |
+| ![Untitled](https://github.com/MAZU-dev/mazu-ku-hackaton-readme/assets/59868624/1cdde2ae-1aa7-4907-9e47-7bd26542a99b) | ![Untitled (1)](https://github.com/MAZU-dev/mazu-ku-hackaton-readme/assets/59868624/bf909623-8b0b-474f-8416-627effe02a96)| ![Untitled (2)](https://github.com/MAZU-dev/mazu-ku-hackaton-readme/assets/59868624/d9a5c7eb-33db-468d-9a50-57cd1245246e)| ![Untitled (3)](https://github.com/MAZU-dev/mazu-ku-hackaton-readme/assets/59868624/d50d57b1-627c-400c-8032-9a69c81a9a0c)|
 | https://github.com/haruachm | https://github.com/woo4826 | https://github.com/ehdtndla123 | https://github.com/gabin9 |
 | mailto:24iambusyman@gmail.com | mailto:woo4826@gmail.com | mailto:ehdtndla123@gmail.com | mailto:k9gabin@gmail.com |
 
