@@ -16,9 +16,9 @@
 
 <br />
 
-<div align="center" style="width:400px">
+<div align="center">
 
-![logo](https://github.com/MAZU-dev/mazu-ku-hackaton-readme/assets/59868624/72b1db5b-8bfa-4125-8e3e-7ed86f332cd5)
+<img src="https://github.com/MAZU-dev/mazu-ku-hackaton-readme/assets/59868624/72b1db5b-8bfa-4125-8e3e-7ed86f332cd5" width="400" height="400"/>
 
 </div>
 
