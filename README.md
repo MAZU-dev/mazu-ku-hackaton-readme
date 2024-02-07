@@ -87,6 +87,7 @@
 <div align="center">
 
 ![Untitled (5)](https://github.com/MAZU-dev/mazu-ku-hackaton-readme/assets/59868624/b79841fb-d416-48ca-99eb-63758609b3dc)
+![mazu_1](https://github.com/MAZU-dev/mazu-ku-hackaton-readme/assets/85959639/464fd6ef-3a3c-4f7c-8f8a-4da23e3b0f94)
 
 </div>
 
