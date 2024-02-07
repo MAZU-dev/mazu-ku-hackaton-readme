@@ -56,7 +56,8 @@
 
 <div align="center">
   
-![Untitled (2)](https://github.com/MAZU-dev/mazu-ku-hackaton-readme/assets/59868624/ace604df-e31b-4f6b-94b6-97ccbb67fc3f)
+![mazu_1 (3)](https://github.com/MAZU-dev/mazu-ku-hackaton-readme/assets/85959639/96f0527f-1f5d-444f-b093-431497701cbb)
+
 
 </div>
 
@@ -77,8 +78,8 @@
 <br />
 
 <div align="center">
-  
-![Untitled (4)](https://github.com/MAZU-dev/mazu-ku-hackaton-readme/assets/59868624/51033eec-13f0-4c10-98fa-fb7dc4f821bb)
+  ![mazu_1 (2)](https://github.com/MAZU-dev/mazu-ku-hackaton-readme/assets/85959639/6fb9d962-3f38-46e9-bc6e-5a2ccef3109e)
+
 
 </div>
 
@@ -86,8 +87,10 @@
 
 <div align="center">
 
-![Untitled (5)](https://github.com/MAZU-dev/mazu-ku-hackaton-readme/assets/59868624/b79841fb-d416-48ca-99eb-63758609b3dc)
+![mazu_1 (2)](https://github.com/MAZU-dev/mazu-ku-hackaton-readme/assets/85959639/0950006a-7f20-40fa-ba10-97126f8bed43)
+
 ![mazu_1](https://github.com/MAZU-dev/mazu-ku-hackaton-readme/assets/85959639/464fd6ef-3a3c-4f7c-8f8a-4da23e3b0f94)
+![mazu_1 (1)](https://github.com/MAZU-dev/mazu-ku-hackaton-readme/assets/85959639/10a99ea8-b339-4416-907c-85970e614d3a)
 
 </div>
 
