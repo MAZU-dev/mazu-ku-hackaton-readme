@@ -2,7 +2,8 @@
 부캐 생성 인맥 관리 서비스, Mdex 🕶️ </h1>
 <div align="center">
 
-![Untitled](https://github.com/MAZU-dev/mazu-ku-hackaton-readme/assets/59868624/925a6f45-b436-415e-bf54-a9a93fc4811f)
+![mazu_1 (3)](https://github.com/MAZU-dev/mazu-ku-hackaton-readme/assets/85959639/0d16e462-e3b0-4313-9156-3dc1db9cced2)
+
 
 </div>
 
